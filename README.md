@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/labra/viade_0.svg?branch=master)](https://travis-ci.org/labra/viade_0) 
-[![codecov](https://codecov.io/gh/Arquisoft/viade_0/branch/master/graph/badge.svg)](https://codecov.io/gh/Arquisoft/viade_0) 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/2f1d352bb3c8454cb77353f3e2098476)](https://www.codacy.com/manual/pglez82/travisreact_tut?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=pglez82/travisreact_tut&amp;utm_campaign=Badge_Grade)
+[![codecov](https://codecov.io/gh/Arquisoft/viade_0/branch/master/graph/badge.svg)](https://codecov.io/gh/Arquisoft/viade_0)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/6d87ad7b8b89409aa9dc2d7a7492affc)](https://www.codacy.com/gh/Arquisoft/viade_0?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Arquisoft/viade_0&amp;utm_campaign=Badge_Grade)
 
 # VIADE_0
 
